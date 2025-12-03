@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/halieute/gis_course/
+        href: https://github.com/halieute/gis_course
         text: GitHub
     style: docked
     contents:

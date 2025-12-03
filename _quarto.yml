@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Course Title"
+  title: "Introduction aux Systèmes d'Information Géographique (SIG)"
   sidebar:
     background: primary
     # logo: "images/logo.png"
@@ -21,8 +21,8 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
-      - href: https://github.com/halieute/gis_course/discussions
-        text: Forum
+      - href: Trainer.md
+        text: Formateur
     page-footer:
     left: |
      All contents are © Souleymane Maman Nouri Souley and licensed under

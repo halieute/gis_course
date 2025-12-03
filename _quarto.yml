@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/Pakillo/quarto-course-website-template
+        href: https://halieute.github.io/gis_course/
         text: GitHub
     style: docked
     contents:
@@ -21,8 +21,14 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
-      - href: https://github.com/Pakillo/quarto-course-website-template/discussions
+      - href: https://halieute.github.io/gis_course/discussions
         text: Forum
+    page-footer:
+    left: |
+     All contents are © Souleymane Maman Nouri Souley and licensed under
+     [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)
+    right: |
+     [{{< fa brands github >}} ](https://halieute.github.io/)
 
 format:
   html:

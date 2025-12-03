@@ -21,7 +21,7 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
-      - href: https://halieute.github.io/gis_course/discussions
+      - href: https://github.com/halieute/gis_course/discussions
         text: Forum
     page-footer:
     left: |
